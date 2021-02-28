@@ -27,7 +27,7 @@
 </template>
 
 <script>
-import crossDomainPost from '@/api/crossdomain'
+import {crossDomainPost} from '@/api/crossdomain'
 export default {
   data() {
     return {
